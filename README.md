@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @minniekaur35
-- 👀 I’m interested in php
-- 🌱 I’m currently learning alteryx
-- 💞️ I’m looking to collaborate on PHP projects
+- 👀 I’m interested in job opportunities in Linux and Python
+- 🌱 I’m currently sharpening my skills in AWS infra and python development
+- 💞️ I’m looking to collaborate on Python projects and AWS IAC
 - 📫 How to reach me- minniekaur35@gmail.com
 
 <!---
